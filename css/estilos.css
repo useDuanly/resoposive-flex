@@ -5,6 +5,9 @@
   padding: 0.625rem;
   margin: 0.625rem;
 }
+body {
+  font-family: "Montserrat", sans-serif;
+}
 .padre {
   display: flex;
   flex-flow: column nowrap;
